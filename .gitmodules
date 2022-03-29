@@ -1,0 +1,3 @@
+[submodule "plugin.program.tatwizard"]
+	path = plugin.program.tatwizard
+	url = https://github.com/tat-wizard/plugin.program.tatwizard
