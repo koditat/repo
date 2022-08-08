@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.tatwizard" name="[COLOR limegreen][B]TAT[/B][/COLOR]Wizard Repository" version="2.0" provider-name="TAT">
+<addon id="repo" name="[COLOR limegreen][B]TAT[/B][/COLOR]Wizard Repository" version="2.0" provider-name="TAT">
     <extension point="xbmc.addon.repository" name="[COLOR limegreen][B]TAT[/B][/COLOR]Wizard Repository">
         <dir minversion="19.0">
-            <info compressed="false">https://raw.githubusercontent.com/tat-wizard/repository.tatwizard/master/zips/addons.xml</info>
-            <checksum>https://raw.githubusercontent.com/tat-wizard/repository.tatwizard/master/zips/addons.xml.md5</checksum>
-            <datadir zip="true">https://raw.githubusercontent.com/tat-wizard/repository.tatwizard/master/zips/</datadir>
+            <info compressed="false">https://raw.githubusercontent.com/koditat/repo/master/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/koditat/repo/master/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/koditat/repo/master/zips/</datadir>
         </dir>
     </extension>
     
@@ -17,6 +17,6 @@
             <icon>icon.png</icon>
             <fanart>fanart.jpg</fanart>
         </assets>
-        <source>https://github.com/tat-wizard/repository.tatwizard/</source>
+        <source>https://github.com/koditat/repo/</source>
     </extension>
 </addon>
