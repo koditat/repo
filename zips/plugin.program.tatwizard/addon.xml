@@ -19,7 +19,7 @@
         <description lang="en">[COLOR limegreen]TAT[/COLOR]Wizard offers many maintenance features, selective add-on data saving, and automated build installs.</description>
         <platform>all</platform>
         <reuselanguageinvoker>false</reuselanguageinvoker>
-        <source>https://github.com/koditat/plugin.program.tatwizard/</source>
+        <source>https://github.com/tatkodi/plugin.program.tatwizard/</source>
         <news>
 2.0.7
  - Fix Error when using default log settings

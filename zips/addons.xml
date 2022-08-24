@@ -20,7 +20,7 @@
         <description lang="en">[COLOR limegreen]TAT[/COLOR]Wizard offers many maintenance features, selective add-on data saving, and automated build installs.</description>
         <platform>all</platform>
         <reuselanguageinvoker>false</reuselanguageinvoker>
-        <source>https://github.com/koditat/plugin.program.tatwizard/</source>
+        <source>https://github.com/tatkodi/plugin.program.tatwizard/</source>
         <news>
 2.0.7
  - Fix Error when using default log settings
@@ -151,9 +151,9 @@
 <addon id="repo" name="[COLOR limegreen][B]TAT[/B][/COLOR]Wizard Repository" version="2.0" provider-name="TAT">
     <extension point="xbmc.addon.repository" name="[COLOR limegreen][B]TAT[/B][/COLOR]Wizard Repository">
         <dir minversion="19.0">
-            <info compressed="false">https://raw.githubusercontent.com/koditat/repo/master/zips/addons.xml</info>
-            <checksum>https://raw.githubusercontent.com/koditat/repo/master/zips/addons.xml.md5</checksum>
-            <datadir zip="true">https://raw.githubusercontent.com/koditat/repo/master/zips/</datadir>
+            <info compressed="false">https://raw.githubusercontent.com/tatkodi/repo/master/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/tatkodi/repo/master/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/tatkodi/repo/master/zips/</datadir>
         </dir>
     </extension>
 
@@ -166,7 +166,7 @@
             <icon>icon.png</icon>
             <fanart>fanart.jpg</fanart>
         </assets>
-        <source>https://github.com/koditat/repo/</source>
+        <source>https://github.com/tatkodi/repo/</source>
     </extension>
 </addon>
 </addons>
