@@ -3,4 +3,4 @@
 The official home of TATWizard.
 
 Kodi File Manager Source:
-https://koditat.github.io/repo
+https://tatkodi.github.io/repo
